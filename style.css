@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, Serif;
+    margin: 0px;
+    padding: 0px;
+    background: #f4f4f4;
+}
+
+header {
+    background: #3b6d8b;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.gallery {
+   display: flex;
+   gap: 20px;
+   flex-wrap: wrap;
+   padding: 40px;
+   justify-content: center;
+
+}
+
+.photo {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    border-style: 30px;    
+}
+
+
