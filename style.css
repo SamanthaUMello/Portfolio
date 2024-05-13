@@ -18,14 +18,13 @@ header {
    flex-wrap: wrap;
    padding: 40px;
    justify-content: center;
-
 }
 
-.photo {
+.photo img {
     display: flex;
     width: 250px;
     height: 250px;
-    border-style: 30px;    
+    border-radius: 10px;
 }
 
 
